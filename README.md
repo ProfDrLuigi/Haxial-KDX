@@ -6,6 +6,10 @@ Server:
     sudo apt install libstdc++5:i386
     
     #### Starting the server ####
+    chmod +x KDXServer.lexe
+    ./KDXServer.lexe
+    
+    #### Doing initial setup ####
     KDX Server initial setup.  Press enter to continue.
     
     Creating new accounts file.  Enter login for your administrator account.
