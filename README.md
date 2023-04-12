@@ -2,7 +2,7 @@
 
 Server:
 
-    #### Installing 32 Bit Library first: ####
+    #### Because the app is 32 Bit only first install the 32 Bit library in your 64 Bit system: ####
     sudo apt install libstdc++5:i386
     
     #### Starting the server ####
