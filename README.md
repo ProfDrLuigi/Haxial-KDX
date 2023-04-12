@@ -2,10 +2,10 @@
 
 Server:
 
-    #### Installing 32 Bit Library: ####
-    
+    #### Installing 32 Bit Library first: ####
     sudo apt install libstdc++5:i386
     
+    #### Starting the server ####
     KDX Server initial setup.  Press enter to continue.
     
     Creating new accounts file.  Enter login for your administrator account.
