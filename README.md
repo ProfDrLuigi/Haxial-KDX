@@ -2,7 +2,7 @@
 
 Server:
 
-  sudo apt install libstdc++5:i386
+        sudo apt install libstdc++5:i386
 
 
 Client:
