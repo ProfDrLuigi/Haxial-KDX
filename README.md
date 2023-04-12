@@ -2,6 +2,7 @@
 
 Server:
 
+    ### Installing 32 Bit Library:
     sudo apt install libstdc++5:i386
     
     KDX Server initial setup.  Press enter to continue.
