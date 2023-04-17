@@ -57,7 +57,6 @@ If needed you can now symlink the "Default" folder to another place on your hard
 #### Because the app is 32 Bit only first install the 32 Bit library in your 64 Bit system ####
    
     sudo apt install libx11-6:i386
-    
 #### Launching the client ####
     cd "KDX Client"
     ./KDXClient.lexe
