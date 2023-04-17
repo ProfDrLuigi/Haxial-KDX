@@ -4,11 +4,11 @@ Here I will describe the installation on a "modern" 64 Bit Linux system based on
 
 For Windows and Mac you can directly start over (to the Documentation.pdf) and no extra installation is necessary.
 
-First clone the repo
+#### First clone the repo ####
         
     git clone https://github.com/profdrluigi/haxial-kdx
 
-If you are on Linux set all Linux binaries to executable:
+#### If you are on Linux set all Linux binaries to executable ####
     
     chmod +x KDX\ Client/*.lexe
     chmod +x KDX\ Server/*.lexe
