@@ -15,7 +15,7 @@ If you are on Linux set all Linux binaries to executable:
 #### Because the app is 32 Bit only first install the 32 Bit library in your 64 Bit system: ####
     sudo apt install libstdc++5:i386
 
-#### Starting the server ####
+#### Starting the server and doing initial setup ####
     ./KDXServer.lexe
     
     #### Doing initial setup ####
