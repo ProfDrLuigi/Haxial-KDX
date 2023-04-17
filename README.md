@@ -42,7 +42,7 @@ For Windows and Mac you can directly start over (to the Documentation.pdf) and n
     Setup complete!
     23/04/12 01:01:05 PM [] KDX Server started on 10.0.0.1:10700, 192.168.178.21:10700, 192.168.122.1:10700, 172.17.0.1:10700
     
-After the setup is done and the server running you can now config your file structure (starts in Bases/Default):    
+After the setup is done and the server running you can now config your file structure (starts in Bases/Default): 
     
     drwx------ 2 pi pi 4096 Apr 12 14:58 'Admin Dropbox [DB]'
     drwx------ 2 pi pi 4096 Apr 12 14:58 'Uploads [UL]'
