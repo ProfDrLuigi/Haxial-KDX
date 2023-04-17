@@ -1,5 +1,8 @@
 # kdx
 
+First clone the repo:
+        git clone https://github.com/profdrluigi/haxial-kdx
+
 Server:
 
     #### Because the app is 32 Bit only first install the 32 Bit library in your 64 Bit system: ####
