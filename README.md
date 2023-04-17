@@ -1,4 +1,4 @@
-# kdx
+# Haxial KDX Server / Client / Tracker
 
 First clone the repo:
         
