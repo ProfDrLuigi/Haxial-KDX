@@ -1,6 +1,8 @@
 # Haxial KDX Server / Client / Tracker
 
-Here I will describe the installation on a "modern" Linux system. For Windows and Mac you can directly start over (to the Documentation.pdf) and no extra installations are necessary.
+Here I will describe the installation on a "modern" Linux system based on Ubuntu/Debian. It should work on other Distros too. Name of the dependencies may be slightly different.
+
+For Windows and Mac you can directly start over (to the Documentation.pdf) and no extra installation is necessary.
 
 First clone the repo
         
