@@ -39,7 +39,7 @@ After the setup is done and the server running you can now config your file stru
     drwx------ 2 pi pi 4096 Apr 12 14:58 'Uploads [UL]'
     drwx------ 2 pi pi 4096 Apr 12 14:58 'Software'
 
-If needed you can now symlink the Downloads folder to another place on your harddisk.
+If needed you can now symlink the "Default" folder to another place on your harddisk.
 
 Client:
 
