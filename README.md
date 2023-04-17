@@ -8,7 +8,7 @@ For Windows and Mac you can directly start over (to the Documentation.pdf) and n
         
     git clone https://github.com/profdrluigi/haxial-kdx
 
-#### If you are on Linux set all Linux binaries to executable ####
+#### Set all Linux binaries to executable ####
     
     chmod +x KDX\ Client/*.lexe
     chmod +x KDX\ Server/*.lexe
