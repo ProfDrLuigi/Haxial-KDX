@@ -4,7 +4,7 @@ First clone the repo:
         
     git clone https://github.com/profdrluigi/haxial-kdx
 
-If you use the Linux version set all Linux Binaries to executable:
+If you are on Linux set all Linux binaries to executable:
     
     chmod +x KDX\ Client/*.lexe
     chmod +x KDX\ Server/*.lexe
