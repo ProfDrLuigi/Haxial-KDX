@@ -62,4 +62,4 @@ If needed you can now symlink the "Default" folder to another place on your hard
     cd "KDX Client"
     ./KDXClient.lexe
 
-#### It's important to use the original config file (KDX.stg) because there is the registration inside. Without it the client will nag you with "Support Development of KDX" popups.
+#### It's important to use the original config file (KDX.stg) because there is the registration inside. Without it the client will nag you with "Support Development of KDX" popups. I don't think you want that. :)
