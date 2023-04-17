@@ -14,12 +14,13 @@ For Windows and Mac you can directly start over (to the Documentation.pdf) and n
     chmod +x KDX\ Server/*.lexe
     chmod +x KDX\ Tracker/*.lexe
 
-# Server:
+# Server
 
-#### Because the app is 32 Bit only first install the 32 Bit library in your 64 Bit system: ####
+#### Because the app is 32 Bit only first install the 32 Bit library in your 64 Bit system ####
     sudo apt install libstdc++5:i386
 
 #### Starting the server ####
+    cd "KDX Server"
     ./KDXServer.lexe
     
 #### Doing initial setup ####
@@ -43,14 +44,17 @@ For Windows and Mac you can directly start over (to the Documentation.pdf) and n
     
 After the setup is done and the server running you can now config your file structure (starts in Bases/Default):    
     
-    
     drwx------ 2 pi pi 4096 Apr 12 14:58 'Admin Dropbox [DB]'
     drwx------ 2 pi pi 4096 Apr 12 14:58 'Uploads [UL]'
     drwx------ 2 pi pi 4096 Apr 12 14:58 'Software'
 
 If needed you can now symlink the "Default" folder to another place on your harddisk. For further Details of using DropBox and UL Folders have at look at Page 21 in the Documentation.pdf
 
-# Client:
-Because the app is 32 Bit only first install the 32 Bit library in your 64 Bit system: ####
-    
+# Client
+#### Because the app is 32 Bit only first install the 32 Bit library in your 64 Bit system ####
+   
     sudo apt install libx11-6:i386
+    
+#### Launching the client ####
+    cd "KDX Client"
+    ./KDXClient.lexe
