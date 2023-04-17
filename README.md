@@ -4,6 +4,12 @@ First clone the repo:
         
     git clone https://github.com/profdrluigi/haxial-kdx
 
+If you use the Linux version set all Linux Binaries to executable:
+    
+    chmod +x KDX\ Client/*.lexe
+    chmod +x KDX\ Server/*.lexe
+    chmod +x KDX\ Tracker/*.lexe
+
 # Server:
 
     #### Because the app is 32 Bit only first install the 32 Bit library in your 64 Bit system: ####
