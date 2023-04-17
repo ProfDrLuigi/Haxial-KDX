@@ -4,7 +4,7 @@ First clone the repo:
         
     git clone https://github.com/profdrluigi/haxial-kdx
 
-Server:
+# Server:
 
     #### Because the app is 32 Bit only first install the 32 Bit library in your 64 Bit system: ####
     sudo apt install libstdc++5:i386
@@ -38,6 +38,8 @@ After the setup is done and the server running you can now config your file stru
     drwx------ 2 pi pi 4096 Apr 12 14:58 'Admin Dropbox [DB]'
     drwx------ 2 pi pi 4096 Apr 12 14:58 'Uploads [UL]'
     drwx------ 2 pi pi 4096 Apr 12 14:58 'Software'
+
+If needed you can now symlink the Downloads folder to another place on your harddisk.
 
 Client:
 
