@@ -1,6 +1,6 @@
 # Haxial KDX Server / Client / Tracker
 
-Here I will describe the installation on a "modern" 64 Bit Linux system based on Ubuntu/Debian. It should work on other Distros too. Name of the dependencies may be slightly different.
+Here I will describe the installation on a "modern" 64 Bit Linux system based on Ubuntu/Debian. It should work on other Distros too. Name of the dependencies may be slightly different. There is already a solution to run KDX on modern systems via "Docker" but I prefer to run it "native" under the host OS.
 
 For Windows and Mac you can directly start over (to the Documentation.pdf) and no extra installation is necessary.
 
