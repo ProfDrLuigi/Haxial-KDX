@@ -50,6 +50,9 @@ After the setup is done and the server running you can now config your file stru
 
 If needed you can now symlink the "Default" folder to another place on your harddisk. For further Details of using DropBox and UL Folders have at look at Page 21 in the Documentation.pdf
 
+# Tracker
+#### Mainly the same like the server with slightly differences. Have a further look at the Documentation.pdf ####
+
 # Client
 #### Because the app is 32 Bit only first install the 32 Bit library in your 64 Bit system ####
    
