@@ -63,7 +63,7 @@ If needed you can now symlink the "Default" folder to another place on your hard
 #### It's important to use the original "initial" config file (KDX.stg) because there is the registration inside. Without it the client will nag you with "Support Development of KDX" popups. I don't think you want that. :)
 
 # Troubleshooting
-If you have problems to install the i386 libs try
+If you have problems to install the i386 libs do
 
     sudo dpkg --add-architecture i386
     sudo apt-get update
