@@ -64,6 +64,7 @@ If needed you can now symlink the "Default" folder to another place on your hard
 
 # Truobleshooting
 If you have problems to install the i386 libs try
+
     sudo dpkg --add-architecture i386
     sudo apt-get update
 before. That should solve it.
